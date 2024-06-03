@@ -1,0 +1,22 @@
+{
+  "description": "Demigirl Trail",
+  "anvil_cost": 0,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "weight": 1,
+  "effects": {},
+  "slots": [
+    "mainhand", 
+    "offhand"
+  ],
+  "supported_items": ["minecraft:bow","minecraft:crossbow"],
+  "primary_items": ["minecraft:bow","minecraft:crossbow"],
+  "exclusive_set": "#pridearrows:exclusive_set/trail"
+}
