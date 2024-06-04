@@ -1,0 +1,8 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "nbt": "{inGround:0b,LeftOwner:1b,weapon:{components:{\"minecraft:enchantments\":{levels:{\"pridearrows:hetero_trail\":1}}}}}",
+        "type": "#minecraft:arrows"
+    }
+}

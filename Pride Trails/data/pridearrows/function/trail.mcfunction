@@ -38,6 +38,11 @@ execute as @e[predicate=pridearrows:bigender_trail] at @s run particle minecraft
 execute as @e[predicate=pridearrows:bigender_trail] at @s run particle minecraft:dust{color:[0.6039,0.7804,0.9098],scale:2} ~ ~-0.4 ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:bigender_trail] at @s run particle minecraft:dust{color:[0.4275,0.5098,0.8196],scale:2} ~ ~-0.6 ~ 0.2 0 0.2 0 5 force
 #
+execute as @e[predicate=pridearrows:cis_trail] at @s run particle minecraft:dust{color:[0.8431,0.3294,0.5843],scale:2} ~ ~0.3 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:cis_trail] at @s run particle minecraft:dust{color:[0.8431,0.3294,0.5843],scale:2} ~ ~0.1 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:cis_trail] at @s run particle minecraft:dust{color:[0.0000,0.1216,0.6549],scale:2} ~ ~-0.1 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:cis_trail] at @s run particle minecraft:dust{color:[0.0000,0.1216,0.6549],scale:2} ~ ~-0.3 ~ 0.2 0 0.2 0 5 force
+#
 execute as @e[predicate=pridearrows:demiboy_trail] at @s run particle minecraft:dust{color:[0.4980,0.4980,0.4980],scale:2} ~ ~0.6 ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:demiboy_trail] at @s run particle minecraft:dust{color:[0.7686,0.7686,0.7686],scale:2} ~ ~0.4 ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:demiboy_trail] at @s run particle minecraft:dust{color:[0.6157,0.8431,0.9176],scale:2} ~ ~0.2 ~ 0.2 0 0.2 0 5 force
@@ -72,6 +77,13 @@ execute as @e[predicate=pridearrows:genderfluid_trail] at @s run particle minecr
 execute as @e[predicate=pridearrows:genderfluid_trail] at @s run particle minecraft:dust{color:[0.7529,0.0667,0.8431],scale:2} ~ ~ ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:genderfluid_trail] at @s run particle minecraft:dust{color:[0.0000,0.0000,0.0000],scale:2} ~ ~-0.2 ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:genderfluid_trail] at @s run particle minecraft:dust{color:[0.1843,0.2353,0.7451],scale:2} ~ ~-0.4 ~ 0.2 0 0.2 0 5 force
+#
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[0.0000,0.0000,0.0000],scale:2} ~ ~0.5 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[1.0000,1.0000,1.0000],scale:2} ~ ~0.3 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[0.0000,0.0000,0.0000],scale:2} ~ ~0.1 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[1.0000,1.0000,1.0000],scale:2} ~ ~-0.1 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[0.0000,0.0000,0.0000],scale:2} ~ ~-0.3 ~ 0.2 0 0.2 0 5 force
+execute as @e[predicate=pridearrows:hetero_trail] at @s run particle minecraft:dust{color:[1.0000,1.0000,1.0000],scale:2} ~ ~-0.5 ~ 0.2 0 0.2 0 5 force
 #
 execute as @e[predicate=pridearrows:intersex_trail] at @s run particle minecraft:dust{color:[1.0000,0.8471,0.0000],scale:2} ~ ~0.6 ~ 0.2 0 0.2 0 5 force
 execute as @e[predicate=pridearrows:intersex_trail] at @s run particle minecraft:dust{color:[1.0000,0.8471,0.0000],scale:2} ~ ~0.4 ~ 0.2 0 0.2 0 5 force
